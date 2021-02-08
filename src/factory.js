@@ -34,6 +34,7 @@ const eventNames = [
   'SunburstClick',
   'Transitioning',
   'TransitionInterrupted',
+  'TreemapClick',
   'Unhover',
   'WebGlContextLost',
 ];
